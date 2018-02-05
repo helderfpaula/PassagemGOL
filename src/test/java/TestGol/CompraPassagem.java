@@ -1,5 +1,8 @@
 package TestGol;
 
+import static org.junit.Assert.*;
+
+import Suport.Web;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Ignore;
@@ -12,6 +15,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.chrome.ChromeDriver;
 import java.util.concurrent.TimeUnit;
 import org.junit.*;
+import org.openqa.selenium.support.ui.Select;
 
 import javax.print.attribute.standard.MediaSize;
 
@@ -24,12 +28,7 @@ public class CompraPassagem {
 
     public void setUp(){
 
-        System.setProperty("webdriver.chrome.driver", "D:\\Users\\hfernandes\\Drivers\\chromedriver.exe");
-        navegador = new ChromeDriver();
-        navegador.manage().window().maximize();
-        navegador.manage().timeouts().implicitlyWait(10, TimeUnit.SECONDS);
-
-        navegador.get("http://skysales.devedp.com.br/pacote1802/Search.aspx");
+        navegador = Web.createChrome();
 
         WebElement MotorDeCompra = navegador.findElement(By.id("Page"));
 
@@ -110,7 +109,12 @@ public class CompraPassagem {
 
         // Escolhendo Assento IDA
 
-        navegador.findElement(By.id("seat1_0_3D")).click();
+        navegador.findElement(By.id("seat1_0_4B")).click();
+
+        try {
+            Thread.sleep(1000);
+        }   catch(Exception ex) {
+        }
 
         navegador.findElement(By.id("btnSeatMapClose")).click();
 
@@ -121,7 +125,12 @@ public class CompraPassagem {
 
         // Escolher Assento VOLTA
 
-        navegador.findElement(By.id("seat1_0_3D")).click();
+        navegador.findElement(By.id("seat2_1_4B")).click();
+
+        try {
+            Thread.sleep(1000);
+        }   catch(Exception ex) {
+        }
 
         navegador.findElement(By.id("btnSeatMapClose")).click();
 
@@ -129,16 +138,47 @@ public class CompraPassagem {
 
         navegador.findElement(By.id("UnitMapViewControl2_LinkButtonAssignUnit")).click();
 
+        // Extras Seguro Viagem
 
-    }
+        // navegador.findElement(By.xpath("//*[@id=\"insuranceContainer\"]/div[1]/div[6]/div/p")).click();
 
-    @Ignore
+        //navegador.findElement(By.id("checkAgreedInput")).click();
 
-    public void motorDeCompra3() {
+        // navegador.findElement(By.id("ControlGroupProductsView2_Insurance_ProductsView2_PRE_CONTRACT_LINK")).click();
 
-        navegador.findElement(By.id("LoginMemberLogin2View_TextBoxUserID")).sendKeys("helder.070516@gmail.com");
+        navegador.findElement(By.id("ControlGroupProductsView2_LinkButtonSubmit")).click();
 
-        navegador.findElement(By.id("LoginMemberLogin2View_PasswordFieldPassword")).sendKeys("123456");
+        // Pagamento
+
+        navegador.findElement(By.id("labelForInput2")).click();
+
+        // Numero do cartão
+
+        navegador.findElement(By.id("ControlGroupPayment2View_PaymentDisplayViewPaymentView2_cardNumber")).sendKeys("4012001038443335", Keys.TAB);
+
+        navegador.findElement(By.id("ControlGroupPayment2View_PaymentDisplayViewPaymentView2_cardName")).sendKeys("Helder Fernandes", Keys.TAB);
+
+        navegador.findElement(By.xpath("//*[@id=\"paymentCardsFields\"]/table[2]/tbody/tr/td[1]/div/div[1]/div/div[1]/div[1]")).click();
+
+        try {
+
+            Thread.sleep(2000);
+        }
+            catch (Exception ex) {
+        }
+
+        navegador.findElement(By.xpath("//*[@id=\"paymentCardsFields\"]/table[2]/tbody/tr/td[1]/div/div[1]/div/div[2]/div[8]")).click();
+
+        navegador.findElement(By.id("ControlGroupPayment2View_PaymentDisplayViewPaymentView2_cardSecurityCode")).sendKeys("737");
+
+        navegador.findElement(By.id("LinkButtonSubmitFake")).click();
+
+        // Resumo da Compra
+
+        navegador.findElement(By.id("ControlGroupPayment2View_LinkButtonSubmit")).click();
+
+
+
     }
 
     @Ignore

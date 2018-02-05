@@ -1,0 +1,2 @@
+motorDeCompra2,Origem,Destino,login,senha,documento,Cartao,Nome,cvv,mensagem,Duration(ms),Duration(ms),Duration(ms),Duration(ms)
+"",GRU,SDU,helder.corporate@outlook.com,123456,411596238,4012001038443335,Helder Fernandes,737,Sua compra foi concluída com sucesso!,84688.0,84688.0,84688.0,84688.0
