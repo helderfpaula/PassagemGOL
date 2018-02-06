@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bcbe273-74c1-41da-9500-c6cd355ec251" name="Default" comment="" />
+    <list default="true" id="1bcbe273-74c1-41da-9500-c6cd355ec251" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/PassagemGol.iml" afterPath="$PROJECT_DIR$/PassagemGol.iml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_1_0_M2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_1_0_RC1.xml" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_1_0_M2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_1_0_RC1.xml" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +21,8 @@
       <file leaf-file-name="MotorPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Pages/MotorPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="17" column="127" lean-forward="true" selection-start-line="17" selection-start-column="127" selection-end-line="17" selection-end-column="132" />
+            <state relative-caret-position="34">
+              <caret line="22" column="119" lean-forward="false" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="119" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -28,7 +33,7 @@
       <file leaf-file-name="MotorPageSelect.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Pages/MotorPageSelect.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
+            <state relative-caret-position="187">
               <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
               <folding>
                 <element signature="e#233#234#0" expanded="true" />
@@ -38,11 +43,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CompraPassagemPageObjects.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="CompraPassagemPageObjects.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestGol/CompraPassagemPageObjects.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="442">
-              <caret line="62" column="24" lean-forward="true" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+            <state relative-caret-position="1054">
+              <caret line="62" column="24" lean-forward="false" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -63,7 +68,7 @@
       <file leaf-file-name="Pagamento.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Pages/Pagamento.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
+            <state relative-caret-position="119">
               <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -77,7 +82,7 @@
       <file leaf-file-name="ResumoCompra.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Pages/ResumoCompra.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="190">
+            <state relative-caret-position="204">
               <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -91,7 +96,7 @@
       <file leaf-file-name="Confirmacao.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Pages/Confirmacao.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="102">
               <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -103,7 +108,7 @@
       <file leaf-file-name="SeguroVida.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Pages/SeguroVida.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
+            <state relative-caret-position="119">
               <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -117,7 +122,7 @@
       <file leaf-file-name="TarifaPage.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Pages/TarifaPage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="510">
+            <state relative-caret-position="493">
               <caret line="32" column="40" lean-forward="false" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -126,15 +131,13 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Assento.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="Assento.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/Pages/Assento.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="258">
-              <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+            <state relative-caret-position="85">
+              <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#184#185#0" expanded="true" />
-                <element signature="e#226#227#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -148,6 +151,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GradleLocalSettings">
     <option name="externalProjectsViewState">
@@ -216,67 +222,86 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
       <pane id="PackagesPane" />
-      <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="PassagemGol" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PassagemGol" type="462c0819:PsiDirectoryNode" />
+              <item name="PassagemGOL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PassagemGOL" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PassagemGol" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PassagemGol" type="462c0819:PsiDirectoryNode" />
+              <item name="PassagemGOL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PassagemGOL" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PassagemGol" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PassagemGol" type="462c0819:PsiDirectoryNode" />
+              <item name="PassagemGOL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PassagemGOL" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PassagemGOL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PassagemGOL" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PassagemGol" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PassagemGol" type="462c0819:PsiDirectoryNode" />
+              <item name="PassagemGOL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PassagemGOL" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PassagemGol" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PassagemGol" type="462c0819:PsiDirectoryNode" />
+              <item name="PassagemGOL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PassagemGOL" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PassagemGol" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PassagemGol" type="462c0819:PsiDirectoryNode" />
+              <item name="PassagemGOL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PassagemGOL" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="Resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="PassagemGol" type="b2602c69:ProjectViewProjectNode" />
-              <item name="PassagemGol" type="462c0819:PsiDirectoryNode" />
+              <item name="PassagemGOL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PassagemGOL" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="Suport" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PassagemGOL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PassagemGOL" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="TestGol" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="PassagemGOL" type="b2602c69:ProjectViewProjectNode" />
+              <item name="PassagemGOL" type="462c0819:PsiDirectoryNode" />
+              <item name="target" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../webdriver-Java" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -507,9 +532,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CompraPassagemPageObjects - 2018.02.05 at 16h 42m 41s.xml">
-      <configuration name="CompraPassagemPageObjects" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CompraPassagemPageObjects - 2018.02.05 at 16h 58m 08s.xml">
       <configuration name="CompraPassagemPageObjects" configurationId="JUnit" />
     </history-entry>
@@ -531,6 +553,9 @@
     <history-entry file="CompraPassagemPageObjects - 2018.02.05 at 17h 58m 07s.xml">
       <configuration name="CompraPassagemPageObjects" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CompraPassagemPageObjects - 2018.02.06 at 11h 22m 53s.xml">
+      <configuration name="CompraPassagemPageObjects" configurationId="JUnit" />
+    </history-entry>
     <history-entry file="CompraPassagemPageObjects_motorDeCompra2 - 2018.02.05 at 17h 01m 54s.xml">
       <configuration name="CompraPassagemPageObjects.motorDeCompra2" configurationId="JUnit" />
     </history-entry>
@@ -540,6 +565,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -549,12 +575,12 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -617,6 +643,111 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/MotorPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="17" column="127" lean-forward="true" selection-start-line="17" selection-start-column="127" selection-end-line="17" selection-end-column="132" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/MotorPageSelect.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <folding>
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#283#284#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Resources/CompraPassagemPageObjects.csv">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="157" lean-forward="false" selection-start-line="1" selection-start-column="157" selection-end-line="1" selection-end-column="157" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/Pagamento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#239#240#0" expanded="true" />
+            <element signature="e#281#282#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/ResumoCompra.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#193#194#0" expanded="true" />
+            <element signature="e#235#236#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/Confirmacao.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/SeguroVida.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#189#190#0" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/TarifaPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="493">
+          <caret line="32" column="40" lean-forward="false" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/Assento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/TestGol/CompraPassagemPageObjects.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="799">
+          <caret line="62" column="24" lean-forward="true" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="544">
@@ -629,9 +760,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="136">
           <caret line="9" column="5" lean-forward="true" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -641,8 +769,6 @@
           <caret line="4" column="0" lean-forward="true" selection-start-line="4" selection-start-column="0" selection-end-line="4" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#260#261#0" expanded="true" />
-            <element signature="e#302#303#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -662,7 +788,7 @@
         <state relative-caret-position="255">
           <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -671,9 +797,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="18" column="102" lean-forward="false" selection-start-line="18" selection-start-column="102" selection-end-line="18" selection-end-column="102" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -691,9 +814,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="221">
           <caret line="18" column="102" lean-forward="false" selection-start-line="18" selection-start-column="102" selection-end-line="18" selection-end-column="102" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -702,19 +822,12 @@
         <state relative-caret-position="273">
           <caret line="18" column="25" lean-forward="false" selection-start-line="18" selection-start-column="25" selection-end-line="18" selection-end-column="25" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/LoginPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="119">
-          <caret line="7" column="21" lean-forward="true" selection-start-line="7" selection-start-column="21" selection-end-line="7" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/LoginPage.java" />
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="238">
@@ -727,25 +840,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/ViewModel/MotorPageViewModel.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="26" lean-forward="false" selection-start-line="5" selection-start-column="26" selection-end-line="5" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/ViewModel/MotorPageViewModel.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_144/jre/lib/rt.jar!/sun/reflect/NativeMethodAccessorImpl.class">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="148">
           <caret line="26" column="0" lean-forward="false" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -763,7 +865,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="111">
           <caret line="36" column="0" lean-forward="false" selection-start-line="36" selection-start-column="0" selection-end-line="36" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -771,11 +872,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="32" lean-forward="true" selection-start-line="6" selection-start-column="32" selection-end-line="6" selection-end-column="32" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#181#182#0" expanded="true" />
-            <element signature="e#223#224#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -795,9 +891,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="697">
           <caret line="43" column="9" lean-forward="false" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -805,15 +898,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="349">
           <caret line="26" column="44" lean-forward="false" selection-start-line="26" selection-start-column="44" selection-end-line="26" selection-end-column="44" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Pages/SeguroVida.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="153">
+        <state relative-caret-position="119">
           <caret line="9" column="35" lean-forward="false" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -825,18 +915,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Pages/TarifaPage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
+        <state relative-caret-position="493">
           <caret line="32" column="40" lean-forward="false" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/MotorPage.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="17" column="127" lean-forward="true" selection-start-line="17" selection-start-column="127" selection-end-line="17" selection-end-column="132" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -845,7 +925,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Pages/ResumoCompra.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
+        <state relative-caret-position="204">
           <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -857,7 +937,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Pages/Pagamento.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="187">
+        <state relative-caret-position="119">
           <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -869,7 +949,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Pages/MotorPageSelect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
+        <state relative-caret-position="187">
           <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
           <folding>
             <element signature="e#233#234#0" expanded="true" />
@@ -886,21 +966,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/Assento.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="258">
-          <caret line="50" column="0" lean-forward="true" selection-start-line="50" selection-start-column="0" selection-end-line="50" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#184#185#0" expanded="true" />
-            <element signature="e#226#227#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Pages/Confirmacao.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="102">
           <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -910,8 +978,28 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestGol/CompraPassagemPageObjects.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="62" column="24" lean-forward="true" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+        <state relative-caret-position="1054">
+          <caret line="62" column="24" lean-forward="false" selection-start-line="62" selection-start-column="24" selection-end-line="62" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/MotorPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="22" column="119" lean-forward="false" selection-start-line="22" selection-start-column="37" selection-end-line="22" selection-end-column="119" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/Pages/Assento.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
