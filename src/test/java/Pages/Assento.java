@@ -12,7 +12,7 @@ public class Assento {
     }
 
     public Assento AssentoIda(){
-        navegador.findElement(By.id("seat1_0_3F")).click();
+        navegador.findElement(By.id("seat1_0_2B")).click();
 
         try {
             Thread.sleep(1000);
@@ -30,7 +30,7 @@ public class Assento {
     }
 
     public Assento AssentoRetorno(){
-        navegador.findElement(By.id("seat2_1_3F")).click();
+        navegador.findElement(By.id("seat2_1_2B")).click();
 
         try {
             Thread.sleep(1000);
