@@ -19,7 +19,7 @@ import java.lang.annotation.Documented;
 
 
 @RunWith(DataDrivenTestRunner.class)
-@DataLoader(filePaths = "D:\\Users\\hfernandes\\IdeaProjects\\PassagemGol\\src\\test\\java\\Resources\\CompraPassagemPageObjects.csv")
+@DataLoader(filePaths = "D:\\Users\\hfernandes\\Documents\\GitHub\\PassagemGOL\\src\\test\\java\\Resources\\CompraPassagem.csv")
 public class CompraPassagemPageObjects {
 
     private WebDriver navegador;
