@@ -2,15 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bcbe273-74c1-41da-9500-c6cd355ec251" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/Resources/CompraPassagem.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_1_0_RC1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_jupiter_junit_jupiter_api_5_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_1_0_RC1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_junit_platform_junit_platform_commons_1_1_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PassagemGol.iml" beforeDir="false" afterPath="$PROJECT_DIR$/PassagemGol.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Suport/Web.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Suport/Web.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestGol/CompraPassagemPageObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestGol/CompraPassagemPageObjects.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Pages/Assento.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Pages/Assento.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/Suport/Web.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Suport/Web.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Resources/CompraPassagem.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Resources/CompraPassagem.csv" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -35,7 +27,7 @@
       <file leaf-file-name="CompraPassagemPageObjects.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/java/TestGol/CompraPassagemPageObjects.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
+            <state relative-caret-position="357">
               <caret line="21" column="126" selection-start-line="21" selection-start-column="126" selection-end-line="21" selection-end-column="126" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -47,8 +39,8 @@
       <file leaf-file-name="CompraPassagem.csv" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/test/java/Resources/CompraPassagem.csv">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="17">
-              <caret line="1" column="164" lean-forward="true" selection-start-line="1" selection-start-column="164" selection-end-line="1" selection-end-column="164" />
+            <state relative-caret-position="34">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
             </state>
           </provider>
         </entry>
@@ -186,7 +178,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1358" />
+    <option name="x" value="1912" />
     <option name="y" value="-8" />
     <option name="width" value="1936" />
     <option name="height" value="1056" />
@@ -268,7 +260,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../testconductor" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
@@ -467,9 +459,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="CompraPassagemPageObjects - 2018.02.05 at 17h 39m 14s.xml">
-      <configuration name="CompraPassagemPageObjects" configurationId="JUnit" />
-    </history-entry>
     <history-entry file="CompraPassagemPageObjects - 2018.02.05 at 17h 42m 55s.xml">
       <configuration name="CompraPassagemPageObjects" configurationId="JUnit" />
     </history-entry>
@@ -497,6 +486,9 @@
     <history-entry file="CompraPassagemPageObjects - 2018.04.12 at 13h 36m 17s.xml">
       <configuration name="CompraPassagemPageObjects" configurationId="JUnit" />
     </history-entry>
+    <history-entry file="CompraPassagemPageObjects - 2018.04.12 at 13h 40m 53s.xml">
+      <configuration name="CompraPassagemPageObjects" configurationId="JUnit" />
+    </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
@@ -511,11 +503,11 @@
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
       <window_info anchor="right" id="Maven Projects" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.21679065" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21679065" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info id="Capture Tool" order="2" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.178125" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.178125" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="2" />
@@ -984,14 +976,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/Resources/CompraPassagem.csv">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="1" column="164" lean-forward="true" selection-start-line="1" selection-start-column="164" selection-end-line="1" selection-end-column="164" />
+        <state relative-caret-position="34">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/TestGol/CompraPassagemPageObjects.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
+        <state relative-caret-position="357">
           <caret line="21" column="126" selection-start-line="21" selection-start-column="126" selection-end-line="21" selection-end-column="126" />
           <folding>
             <element signature="imports" expanded="true" />
