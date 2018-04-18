@@ -25,12 +25,12 @@ public class MotorPage {
     }
 
     public MotorPage DataIda() {
-        navegador.findElement(By.xpath("//*[@id=\"ui-datepicker-div\"]/div[1]/table/tbody/tr[2]/td[5]")).click();
+        navegador.findElement(By.xpath("//*[@id=\"ui-datepicker-div\"]/div[1]/table/tbody/tr[3]/td[6]/a")).click();
         return this;
     }
 
     public MotorPage DataVolta() {
-        navegador.findElement(By.xpath("//*[@id=\"ui-datepicker-div\"]/div[1]/table/tbody/tr[3]/td[5]")).click();
+        navegador.findElement(By.xpath("//*[@id=\"ui-datepicker-div\"]/div[1]/table/tbody/tr[4]/td[5]/a")).click();
 
         try {
             Thread.sleep(1000);
